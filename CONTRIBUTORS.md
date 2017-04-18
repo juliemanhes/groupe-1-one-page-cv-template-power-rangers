@@ -1,12 +1,20 @@
-Florian Klein => documentation d'usage
+# Contributeurs
 
-Julie Manhes => Licence open Source, documentation d'usage
+- Florian Klein 
+  -  Documentation d'usage
 
-Fanny Pourtier => chef de projet, documentation technique
+- Julie Manhes 
+  -  Documentation d'usage
 
-Wissam Tamer-Agha => wireframe, intégration
+- Fanny Pourtier 
+  -  Chef de projet
 
-Cyril Vinikoff => documentation technique
+- Wissam Tamer-Agha 
+  -  Wireframe, Intégration
 
-Samy Yahia => wireframe, intégration
+- Cyril Vinikoff
+  -  Documentation technique
+
+- Samy Yahia 
+  -  Wireframe, Intégration
 
