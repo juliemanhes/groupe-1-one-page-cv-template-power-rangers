@@ -1,9 +1,12 @@
-# Technologies utilisées :
+# Template CV
+Ce projet est une page web template de CV permettant à des étudiants Hétic de créer leur CV selon une structure prédéfinie.
+
+## Technologies utilisées :
   - HTML 5
   - CSS 3
   - JavaScript 1.7
 
-# Notre Philosophie :
+## Notre Philosophie :
 
   - **HTML 5 :**
 L'utilisation du langage HTML5 est la base du site.
@@ -16,3 +19,4 @@ L'utilisation de CSS3 est incontournable afin de pouvoir coller à la charte gra
 Nous avons fait le choix de l'utilisation du JS natif afin de compenser la non-utilisation de langages orientés Back-end.
 Nous voulons en effet rendre le CV intéractif, mais aussi attractif avec l'ajout de plusieurs fonctionnalités en JS natif.
 L'utilisateur n'a ainsi pas besoin de passer par le code source HTML afin d'effectuer ses modifications.
+Le JS est également utilisé pour faire une version "print" du CV qui soit donc facilement imprimable et dans un format utilisable dans le monde professionnel (maximum 2 pages).
