@@ -47,6 +47,11 @@ L'utilisateur peut ajouter modifier ou supprimer l'information.
 
 Votre CV peut être imprimé à partir de la version digitale. La version imprimée ne comporte qu'une page : ainsi certaines parties seront retranchées par rapport à la version en ligne. Cependant, il sera indiqué sur la version imprimée qu'une version exhaustive en ligne est disponible, et un lien est généré pour que le recruteur aille le consulter.
 
+## MODIFICATIONS
+
+Le template comprend les documents suivants : index.html / style.css / JS et img-content.
+SEULS LE INDEX.HTML et le IMG-CONTENT peuvent être modifiés. 
+
 
 VISIBILITÉ DU SITE
 
