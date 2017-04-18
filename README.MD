@@ -20,3 +20,26 @@ Nous avons fait le choix de l'utilisation du JS natif afin de compenser la non-u
 Nous voulons en effet rendre le CV intéractif, mais aussi attractif avec l'ajout de plusieurs fonctionnalités en JS natif.
 L'utilisateur n'a ainsi pas besoin de passer par le code source HTML afin d'effectuer ses modifications.
 Le JS est également utilisé pour faire une version "print" du CV qui soit donc facilement imprimable et dans un format utilisable dans le monde professionnel (maximum 2 pages).
+
+## Mettre son CV en ligne
+
+Une fois la page du CV modifiée il est possible de le mettre en ligne en suivant ces quelques instructions.
+
+Choisissez d'abord un hébergeur parmi la liste suivante (liste non exhaustive) :
+- OVH
+- iPage
+- Host1Plus
+- 1&1
+- HostGator
+
+Ensuite il faut télécharger un client FTP afin de faciliter le transfert de fichier.
+
+- **Avec le logiciel Filezilla :**
+
+Voici l'interface du logiciel.
+
+![test](https://craym.eu/tutoriels/ftp/images/accueil_filezilla.png)
+
+** En 1**, entrez les informations fournies par votre hébergeur afin de vous connecter à votre serveur distant.
+** En 3**, allez jusqu'au répertoire de votre page et glissez déposez là **en 4**.
+Rendez vous sur le nom de domaine que vous a fournit votre hébergeur afin de voir votre page.
