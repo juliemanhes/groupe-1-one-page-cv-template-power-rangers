@@ -40,6 +40,6 @@ Voici l'interface du logiciel.
 
 ![test](https://craym.eu/tutoriels/ftp/images/accueil_filezilla.png)
 
-** En 1**, entrez les informations fournies par votre hébergeur afin de vous connecter à votre serveur distant.
-** En 3**, allez jusqu'au répertoire de votre page et glissez déposez là **en 4**.
+**En 1**, entrez les informations fournies par votre hébergeur afin de vous connecter à votre serveur distant.
+**En 3**, allez jusqu'au répertoire de votre page et glissez déposez là **en 4**.
 Rendez vous sur le nom de domaine que vous a fournit votre hébergeur afin de voir votre page.
